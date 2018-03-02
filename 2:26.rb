@@ -1,5 +1,6 @@
 # Write a method called `double_numbers` that takes in an array and returns a new array with each number doubled. Use an `each` loop in the method.
 
+
 def double_numbers(input_array)
   doubled_array = []
 
