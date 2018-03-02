@@ -20,4 +20,3 @@ numbers.each do |number|
 end
 
 p sum
-
