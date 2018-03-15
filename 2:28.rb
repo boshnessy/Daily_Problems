@@ -14,7 +14,7 @@ def average(input_array)
   average = sum.to_f / input_array.length
 end
 
-p average([2, 1, 7, 5])  #=> 3.75
+# p average([2, 1, 7, 5])  #=> 3.75
 
 
 def average(input_array)
@@ -26,4 +26,4 @@ def average(input_array)
   average = sum.to_f / input_array.length
 end
 
-p average([2, 1, 7, 5])
+# p average([2, 1, 7, 5])
